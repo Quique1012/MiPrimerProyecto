@@ -1,0 +1,111 @@
+		{PROGRAMACION}
+
+https://www.lawebdelprogramador.com/foros/
+
+https://www.bombercode.net/foro/index.php
+
+https://www.abrirllave.com/
+
+https://programacion.net/
+
+https://es.stackoverflow.com/
+
+https://www.w3schools.com/
+
+IDE PYTHON ONLINE -> https://replit.com/languages/python3
+
+EDITOR DE CODIGO ONLINE -> https://rextester.com/runcode
+
+FORMATEA CONSULTAS SQL -> https://www.site24x7.com/es/tools/sql-formateador.html
+
+FORMATEA HTML -> https://www.site24x7.com/es/tools/xml-formateador.html
+
+VALIDA CODIGO HTML -> https://www.site24x7.com/es/tools/validador-de-html-codigo.html
+
+
+
+
+
+		{MANUALES}
+
+https://es.wikibooks.org/wiki/Wikilibros:Libros_por_tem%C3%A1tica
+
+
+
+
+		{PROGRAMAS EN LINEA}
+
+MONITOREO DE SITIOS WEB -> https://www.site24x7.com/
+
+DISTINTOS S.O. ONLINE -> https://copy.sh/v86/
+
+IA -> https://chat.openai.com/chat
+
+VIRUSTOTAL -> https://www.virustotal.com/gui/home/upload
+
+EXTRAER PDF -> https://www.extractpdf.com/
+
+MANDAR MAIL ANONIMO -> http://anonymouse.org/anonemail.html
+
+ENVIA HASTA 10GB -> https://ydray.com/es/
+
+
+
+
+		{DESCARGA DE PROGRAMAS}
+
+CODIGO ABIERTO -> https://sourceforge.net/directory/windows/
+
+
+
+		{SISTEMAS}
+
+https://www.cpu-upgrade.com/index.html
+
+https://www.pcmontajes.com/pc-creator
+
+INSTALA VARIOS PROGRMAS A LA VEZ -> https://ninite.com/
+
+SHODAN -> https://www.shodan.io/
+
+WHO IS HOSTING -> https://digital.com/who-is-hosting-this/
+
+GOOGLE ANALYTICS -> https://analytics.google.com/analytics/web/provision/#/provision
+
+ENCUENTRA EMAIL ASOCIADAS A UN SITIO -> https://hunter.io/
+
+CALCULADORA SUBREDES IPV6 -> https://www.site24x7.com/es/tools/ipv6-subredes-calculadora.html
+
+CALCULADORA SUBREDES IPV4 -> https://www.site24x7.com/es/tools/ipv4-subredes-calculadora.html
+
+GENERADOR DE CLAVES SEGURAS -> https://www.clavesegura.org/es/
+
+
+
+
+		{SQL}
+
+https://learn.microsoft.com/es-es/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16
+
+
+
+
+		{LINUX}
+
+https://www.hostinger.es/tutoriales/linux-comandos#Comandos_basicos_de_Linux
+
+https://www.freecodecamp.org/espanol/news/comandos-de-linux/
+
+https://www.stackscale.com/es/blog/comandos-linux/
+
+
+
+
+		{PROYECTOS}
+
+CANVA -> https://www.canva.com/
+
+PORTADAS -> https://portadasw.com/portadas-de-informatica/
+
+https://icon-icons.com/es/
+
